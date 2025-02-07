@@ -1,4 +1,4 @@
-# E-Commerce ML Clustering
+# Business Intelligence Analysis / ML Clustering
 Sales / Profits / ML Clustering / Tableau Dashboard
 
 <p> <b>TECHNOLOGIES USED:</b></p>
